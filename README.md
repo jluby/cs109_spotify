@@ -1,4 +1,4 @@
-# cs109_spotify
+# Predicting Song Popularity
 
 The guiding question for this final project has been: __what characteristics are most associated with the popularity of a song as compared to the popularity of the album across a large range of music?__
 
